@@ -1,0 +1,41 @@
+body {
+background-image: url("stardust.png");
+background-size: cover;
+}
+
+
+.name{
+text-align: center;
+font-family: 'Helvetica Neue', sans-serif;
+font-size: 85px;
+font-weight: bold;
+color: white;
+}
+
+#centerblock {
+    display: block;
+    bottom:0;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ .btn-lg btn-info {
+   color: #06425C;
+ }
+
+ p{
+ padding-left: 210px;
+ padding-right: 210px;
+ text-align: center;
+ color: white;
+ font-family: 'Raleway',sans-serif;
+ font-size: 16px;
+
+}
+
+.home{
+  text-align: center;
+  color: white;
+  font-family: 'Raleway',sans-serif;
+  font-size: 30px;
+}
